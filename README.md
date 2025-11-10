@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash
+## 💻 Java Developer | Spring Boot | MySQL | Hibernate | Struts2
 
-<!--
-**Akashsamani/Akashsamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about backend development and building real-world web apps.  
+🔹 Currently working at Arittek Solution  
+🔹 Experienced in Java, Spring Boot, Hibernate, Struts2, and MySQL  
+🔹 Love solving coding problems and learning new technologies  
 
-Here are some ideas to get you started:
+### 📫 Connect with me:
+- 💼 [LinkedIn](www.linkedin.com/in/akash-kumar333)
+- 📧 akashsoftware12@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashsamani&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsamani&layout=compact&theme=tokyonight)
