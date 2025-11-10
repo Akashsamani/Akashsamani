@@ -27,24 +27,12 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/hibernate-icon-512x512-xtemk8r3.png" alt="hibernate" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Hibernate_Logo.png" alt="hibernate" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://struts.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://static.javatpoint.com/images/apache-struts-tutorial.png" alt="struts2" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Apache_Struts_logo.svg" alt="struts2" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akashsamani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akashsamani" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akashsamani&show_icons=true&locale=en&theme=tokyonight" alt="Akashsamani" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsamani&theme=tokyonight" alt="Akashsamani" />
 </p>
