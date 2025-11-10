@@ -32,8 +32,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-<a href="https://struts.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Akashsamani/Struts2ReadmeImages/main/struts2.png" alt="struts2" width="40" height="40"/>
+<a href="https://struts.apache.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Akashsamani/YourRepoName/main/images/struts2.png" alt="struts2" width="40" height="40"/>
 </a>
+
 
 </p>
