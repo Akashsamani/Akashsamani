@@ -33,8 +33,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 <a href="https://struts.apache.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Akashsamani/YourRepoName/main/images/struts2.png" alt="struts2" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Akashsamani/Akashsamani/main/images/struts2.png" alt="struts2" width="40" height="40"/>
 </a>
-
-
 </p>
